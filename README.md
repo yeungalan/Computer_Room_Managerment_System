@@ -11,9 +11,25 @@ Windows Active Directory (w/ Group policy knowledge)
 MySQL
 Visual Basic
 
+## Video for how it works
+<video width="320" height="240" controls>
+  <source src="https://raw.githubusercontent.com/yeungalan/Computer_Room_Managerment_System/master/img/Success.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="320" height="240" controls>
+  <source src="https://raw.githubusercontent.com/yeungalan/Computer_Room_Managerment_System/master/img/Denied.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+
+<video width="320" height="240" controls>
+  <source src="https://raw.githubusercontent.com/yeungalan/Computer_Room_Managerment_System/master/img/Access Denied.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ## Photo for the UI
  
-
 <img src="https://raw.githubusercontent.com/yeungalan/Computer_Room_Managerment_System/master/img/MainUI_Home.PNG"> 
 <img src="https://raw.githubusercontent.com/yeungalan/Computer_Room_Managerment_System/master/img/MainUI_log.PNG"> 
 <img src="https://raw.githubusercontent.com/yeungalan/Computer_Room_Managerment_System/master/img/MainUI_seat.PNG"> 
@@ -36,4 +52,5 @@ Visual Basic
 <img src="https://raw.githubusercontent.com/yeungalan/Computer_Room_Managerment_System/master/img/Register_ban.PNG"> 
 <img src="https://raw.githubusercontent.com/yeungalan/Computer_Room_Managerment_System/master/img/Register_complete.PNG"> 
 <img src="https://raw.githubusercontent.com/yeungalan/Computer_Room_Managerment_System/master/img/Register_seatfull.PNG"> 
+
 
