@@ -12,21 +12,11 @@ MySQL
 Visual Basic
 
 ## Video for how it works
-  <a href="https://raw.githubusercontent.com/yeungalan/Computer_Room_Managerment_System/master/img/Success.mp4">
-  <a href="https://raw.githubusercontent.com/yeungalan/Computer_Room_Managerment_System/master/img/Denied.mp4">
-      <a href="https://raw.githubusercontent.com/yeungalan/Computer_Room_Managerment_System/master/img/Access Denied.mp4">
+  <a href="https://raw.githubusercontent.com/yeungalan/Computer_Room_Managerment_System/master/img/Success.mp4">Success</a>
+  <a href="https://raw.githubusercontent.com/yeungalan/Computer_Room_Managerment_System/master/img/Denied.mp4">Denied</a>
+      <a href="https://raw.githubusercontent.com/yeungalan/Computer_Room_Managerment_System/master/img/Access Denied.mp4">Banned</a>
 
 
-<video width="320" height="240" controls>
-  <source src="https://raw.githubusercontent.com/yeungalan/Computer_Room_Managerment_System/master/img/Denied.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-
-
-<video width="320" height="240" controls>
-  <source src="https://raw.githubusercontent.com/yeungalan/Computer_Room_Managerment_System/master/img/Access Denied.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
 
 ## Photo for the UI
  
